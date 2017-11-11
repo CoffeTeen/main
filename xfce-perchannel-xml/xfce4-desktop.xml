@@ -15,20 +15,28 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="image-path" type="string" value="/home/cboy/.config/variety/wallpaper/wallpaper-quote-32fb17b88cbe4c4a445c8153e66cb78b.jpg"/>
+        <property name="image-path" type="string" value="/usr/share/backgrounds/xfce/xfce-teal.jpg"/>
         <property name="image-style" type="empty"/>
         <property name="image-show" type="empty"/>
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/cboy/.config/variety/wallpaper/wallpaper-quote-32fb17b88cbe4c4a445c8153e66cb78b.jpg"/>
+          <property name="last-image" type="string" value="/home/bmo/Изображения/Wallpapers/Fwall12.jpg"/>
+          <property name="backdrop-cycle-enable" type="bool" value="true"/>
+          <property name="backdrop-cycle-timer" type="uint" value="1"/>
+          <property name="backdrop-cycle-random-order" type="bool" value="true"/>
+          <property name="backdrop-cycle-period" type="int" value="1"/>
         </property>
       </property>
       <property name="monitor1" type="empty">
-        <property name="image-path" type="string" value="/home/cboy/.config/variety/wallpaper/wallpaper-quote-32fb17b88cbe4c4a445c8153e66cb78b.jpg"/>
+        <property name="image-path" type="string" value="/usr/share/backgrounds/xfce/xfce-teal.jpg"/>
         <property name="image-style" type="empty"/>
         <property name="image-show" type="empty"/>
       </property>
     </property>
+  </property>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="752"/>
+    <property name="window-height" type="int" value="514"/>
   </property>
 </channel>
